@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementAnalyzer", "IfStatementAnalyzer\IfStatementAnalyzer\IfStatementAnalyzer.csproj", "{A12CA2CD-7E4D-4BE8-8917-D69586D9F592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementAnalyzer.Test", "IfStatementAnalyzer\IfStatementAnalyzer.Test\IfStatementAnalyzer.Test.csproj", "{DC45C40C-E87A-4685-8E1E-8F1DF9B35634}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementAnalyzer.Vsix", "IfStatementAnalyzer\IfStatementAnalyzer.Vsix\IfStatementAnalyzer.Vsix.csproj", "{35DB9778-B5DB-4914-9154-69DCB389B6E0}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{A12CA2CD-7E4D-4BE8-8917-D69586D9F592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A12CA2CD-7E4D-4BE8-8917-D69586D9F592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A12CA2CD-7E4D-4BE8-8917-D69586D9F592}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC45C40C-E87A-4685-8E1E-8F1DF9B35634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC45C40C-E87A-4685-8E1E-8F1DF9B35634}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC45C40C-E87A-4685-8E1E-8F1DF9B35634}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC45C40C-E87A-4685-8E1E-8F1DF9B35634}.Release|Any CPU.Build.0 = Release|Any CPU
 		{35DB9778-B5DB-4914-9154-69DCB389B6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{35DB9778-B5DB-4914-9154-69DCB389B6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35DB9778-B5DB-4914-9154-69DCB389B6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
